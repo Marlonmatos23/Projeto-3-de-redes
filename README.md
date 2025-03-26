@@ -24,5 +24,5 @@ A ferramenta é capaz de detectar problemas de rede, como baixa largura de banda
 ### 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone git@github.com:Marlonmatos23/Projeto-3-de-redes.git
 cd nome-do-repositorio
